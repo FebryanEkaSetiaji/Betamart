@@ -1,0 +1,11 @@
+D:\KELAS XII\UKK IYAN\CRUD\CRUD_FebryanEkaS\bin\Debug\db_databarang.accdb
+D:\KELAS XII\UKK IYAN\CRUD\CRUD_FebryanEkaS\bin\Debug\CRUD_FebryanEkaS.exe.config
+D:\KELAS XII\UKK IYAN\CRUD\CRUD_FebryanEkaS\bin\Debug\CRUD_FebryanEkaS.exe
+D:\KELAS XII\UKK IYAN\CRUD\CRUD_FebryanEkaS\bin\Debug\CRUD_FebryanEkaS.pdb
+D:\KELAS XII\UKK IYAN\CRUD\CRUD_FebryanEkaS\obj\Debug\CRUD_FebryanEkaS.csprojAssemblyReference.cache
+D:\KELAS XII\UKK IYAN\CRUD\CRUD_FebryanEkaS\obj\Debug\CRUD_FebryanEkaS.Form1.resources
+D:\KELAS XII\UKK IYAN\CRUD\CRUD_FebryanEkaS\obj\Debug\CRUD_FebryanEkaS.Properties.Resources.resources
+D:\KELAS XII\UKK IYAN\CRUD\CRUD_FebryanEkaS\obj\Debug\CRUD_FebryanEkaS.csproj.GenerateResource.cache
+D:\KELAS XII\UKK IYAN\CRUD\CRUD_FebryanEkaS\obj\Debug\CRUD_FebryanEkaS.csproj.CoreCompileInputs.cache
+D:\KELAS XII\UKK IYAN\CRUD\CRUD_FebryanEkaS\obj\Debug\CRUD_FebryanEkaS.exe
+D:\KELAS XII\UKK IYAN\CRUD\CRUD_FebryanEkaS\obj\Debug\CRUD_FebryanEkaS.pdb
